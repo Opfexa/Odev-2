@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zFNzwwP3GN+evdTe3vbR6CGBDqN7VQ9Y5HKBlll+A2egbgbXvcAJ7P+8jeyvq+3+dvSpo+gT8S3Wds2VT83orA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\burak\\Desktop\\Patika-ASP.NET\\Odev-2\\Odev-2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\burak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\burak\Desktop\Patika-ASP.NET\Odev-2\bin\Debug\net5.0\Odev-2.exe
+C:\Users\burak\Desktop\Patika-ASP.NET\Odev-2\bin\Debug\net5.0\Odev-2.deps.json
+C:\Users\burak\Desktop\Patika-ASP.NET\Odev-2\bin\Debug\net5.0\Odev-2.runtimeconfig.json
+C:\Users\burak\Desktop\Patika-ASP.NET\Odev-2\bin\Debug\net5.0\Odev-2.runtimeconfig.dev.json
+C:\Users\burak\Desktop\Patika-ASP.NET\Odev-2\bin\Debug\net5.0\Odev-2.dll
+C:\Users\burak\Desktop\Patika-ASP.NET\Odev-2\bin\Debug\net5.0\Odev-2.pdb
+C:\Users\burak\Desktop\Patika-ASP.NET\Odev-2\obj\Debug\net5.0\Odev-2.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\Patika-ASP.NET\Odev-2\obj\Debug\net5.0\Odev-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\Desktop\Patika-ASP.NET\Odev-2\obj\Debug\net5.0\Odev-2.AssemblyInfoInputs.cache
+C:\Users\burak\Desktop\Patika-ASP.NET\Odev-2\obj\Debug\net5.0\Odev-2.AssemblyInfo.cs
+C:\Users\burak\Desktop\Patika-ASP.NET\Odev-2\obj\Debug\net5.0\Odev-2.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\Patika-ASP.NET\Odev-2\obj\Debug\net5.0\Odev-2.dll
+C:\Users\burak\Desktop\Patika-ASP.NET\Odev-2\obj\Debug\net5.0\refint\Odev-2.dll
+C:\Users\burak\Desktop\Patika-ASP.NET\Odev-2\obj\Debug\net5.0\Odev-2.pdb
+C:\Users\burak\Desktop\Patika-ASP.NET\Odev-2\obj\Debug\net5.0\Odev-2.genruntimeconfig.cache
+C:\Users\burak\Desktop\Patika-ASP.NET\Odev-2\obj\Debug\net5.0\ref\Odev-2.dll
